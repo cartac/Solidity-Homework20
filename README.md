@@ -20,7 +20,7 @@ This contract, although a simple one, allows to deposit on a regular basis and i
 
 **Before:**
 
-![deploy](Screenshots/1.deploy.png =100x20)  
+![deploy](Screenshots/1.deploy.png width="200")  
 
 **After:**
 
