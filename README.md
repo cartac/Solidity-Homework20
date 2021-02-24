@@ -10,23 +10,31 @@ The use of the constructor function enables to define any group of three employe
 This contract, although a simple one, allows to deposit on a regular basis and in a seamless fashion, for example the wages of a certain group of employees. 
 
 
-### highlights of Steps:
+### Key Steps:
 
-* 1. Add Employees's Wallet Addresses 
+#### 1. Add Employees's Wallet Addresses 
 ![address](Screenshots/0.address.png) 
 
-* 2. Deploy Contract
-Before: 
+
+#### 2. Deploy Contract
+
+**Before:**
+
 ![deploy](Screenshots/1.deploy.png) 
 
-After:
+**After:**
+
 ![deployed](Screenshots/2.deployed.png) 
 
-* 3. Make Deposit and Choose Transfer Amount in Metamask
-2 ETH to be transferred to three employees
+
+#### 3. Make Deposit and Choose Transfer Amount in Metamask
+
+**2 ETH to be transferred to three employees**
 
 ![transfer](Screenshots/3.transfer.png) 
 
-* 4. Confirm Transaction was Made
+
+#### 4. Confirm Transaction was Made
+
 ![confirmation](Screenshots/4.confirmation.png) 
 
